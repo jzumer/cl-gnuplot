@@ -1,6 +1,6 @@
 # Gnuplot
 
-## Trivial gnuplot bindings for common lisp
+## Trivial gnuplot wrapper for common lisp
 
 This trivial library provides the most basic forms and error capture to generate gnuplot plots from within common lisp.
 The following example covers this package's current basic fetaures.
